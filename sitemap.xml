@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tintdream.nctu.me/music/index.html</loc>
+    
+    <lastmod>2020-09-21T16:46:23.677Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://tintdream.nctu.me/2020/07/28/ffmpeg_note_1/</loc>
     
     <lastmod>2020-08-15T14:24:46.299Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://tintdream.nctu.me/2020/07/29/2020_h1_english_ablum/</loc>
     
     <lastmod>2020-08-15T03:10:24.726Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tintdream.nctu.me/music/index.html</loc>
-    
-    <lastmod>2020-08-02T13:38:52.797Z</lastmod>
     
   </url>
   
